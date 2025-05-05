@@ -16,6 +16,7 @@
     "openFiles": [
     ],
     "project": "gameTilemap.tiled-project",
+    "property.type": "string",
     "recentFiles": [
     ],
     "tileset.lastUsedFormat": "tsx",
