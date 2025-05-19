@@ -3,10 +3,40 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "TilemapGame/Map1.tmx",
     "expandedProjectPaths": [
+        "TilemapGame",
+        "."
     ],
     "fileStates": {
+        "TheRoom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 22.333333333333314,
+                "y": 36.666666666666686
+            }
+        },
+        "TilemapGame/Map1.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 143.83333333333334,
+                "y": 100
+            }
+        },
+        "TilemapGame/TheRoom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 33,
+                "y": 37.33333333333334
+            }
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        }
     },
     "last.imagePath": "C:/Users/47426063/Documents/comp1151prac-tilemapgame-EthanShanahan/Assets/Tiled/TilemapGame/New folder/Tilemap",
     "map.fixedSize": false,
@@ -14,10 +44,15 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "TinyDungeon_Tilesheet.tsx",
+        "TilemapGame/Map1.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "TheRoom.tmx",
+        "TinyDungeon_Tilesheet.tsx",
+        "TilemapGame/Map1.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
